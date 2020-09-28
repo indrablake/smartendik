@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.40.4',
 	'username' => 'smartt',
 	'password' => '0Dad!ngMANGOLEH#20rb',
 	'database' => 'smarttdb_pai',
