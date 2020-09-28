@@ -80,7 +80,7 @@ $db['default'] = array(
 	'password' => '0Dad!ngMANGOLEH#20rb',
 	'database' => 'smarttdb_pai',
 	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
+	'dbprefix' => 'smarttdb_',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
 	'cache_on' => FALSE,
