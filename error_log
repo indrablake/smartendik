@@ -1,0 +1,9 @@
+[12-Jul-2020 15:00:48 UTC] PHP Fatal error:  Cannot redeclare Sekolah::tambahSekolah() in /home/simapedu/public_html/sima/application/controllers/Sekolah.php on line 89
+[16-Jul-2020 16:23:35 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:40 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:40 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:40 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:40 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:41 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[16-Jul-2020 16:23:41 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
+[18-Jul-2020 05:12:05 UTC] PHP Fatal error:  Cannot redeclare User::simpanUser() in /home/simapedu/public_html/sima/application/controllers/User.php on line 85
